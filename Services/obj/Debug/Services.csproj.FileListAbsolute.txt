@@ -1,0 +1,10 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\bin\Debug\Services.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\bin\Debug\Services.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\bin\Debug\Data.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\bin\Debug\Models.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\bin\Debug\Data.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\bin\Debug\Models.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\obj\Debug\Services.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\obj\Debug\Services.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Services\bin\Debug\EnglishWords.txt

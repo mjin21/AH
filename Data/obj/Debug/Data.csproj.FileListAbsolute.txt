@@ -1,0 +1,7 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Data\bin\Debug\Data.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Data\bin\Debug\Data.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Data\obj\Debug\Data.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Data\obj\Debug\Data.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Data\obj\Debug\Data.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ActiveHours\Data\bin\Debug\EnglishWords.txt
