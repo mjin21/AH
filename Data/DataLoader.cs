@@ -14,13 +14,4 @@ namespace Data
             return words;
         }
     }
-
-    //public class DataLoader2
-    //{
-    //    public IEnumerable<string> GetTrieWords()
-    //    {
-    //        var words = Properties.Resources.EnglishWords.ToString().Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
-    //        return words;
-    //    }
-    //}
 }
